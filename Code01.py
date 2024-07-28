@@ -1,3 +1,4 @@
+# Program to make 3d models from 2d images
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
